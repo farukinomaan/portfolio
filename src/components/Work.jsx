@@ -23,6 +23,12 @@ const works = [
     tags: ['Java'],
     projectLink: 'https://pixstock-official.vercel.app/'
   },
+  {
+    imgSrc: '/images/Questify.png',
+    title: 'Quiz Form Builder',
+    tags: ['React, TailwindCSS, NodeJs, JavaScript, MongoDB, Express'],
+    projectLink: 'https://github.com/farukinomaan/Questifybynomaan'
+  },
 //   {
 //     imgSrc: '/images/project-3.jpg',
 //     title: 'Recipe app',
