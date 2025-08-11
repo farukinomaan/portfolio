@@ -26,7 +26,7 @@ const works = [
   {
     imgSrc: '/images/Questify.png',
     title: 'Quiz Form Builder',
-    tags: ['React, TailwindCSS, NodeJs, JavaScript, MongoDB, Express'],
+    tags: ['React', 'TailwindCSS', 'NodeJs', 'JavaScript', 'MongoDB', 'Express'],
     projectLink: 'https://github.com/farukinomaan/Questifybynomaan'
   },
 //   {
