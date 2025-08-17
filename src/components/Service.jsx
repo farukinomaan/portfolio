@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Layout, Smartphone, Cloud, PenTool, Zap, brain } from 'lucide-react'; // Importing icons from lucide-react
+import { Code, Layout, Smartphone, Cloud, PenTool, Zap, Brain } from 'lucide-react'; // Importing icons from lucide-react
 
 // Main App component
 const App = () => {
@@ -35,7 +35,7 @@ const ServicesSection = () => {
       description: "Seamlessly integrating third-party APIs and leveraging cloud services (AWS, GCP, Azure) to enhance functionality, scalability, and data management."
     },
     {
-      icon: <brain className="w-8 h-8 text-amber-600" />,
+      icon: <Brain className="w-8 h-8 text-amber-600" />,
       title: "AI Chatbots",
       description: " Developed a chatbot frontend in React + TailwindCSS with a clean, responsive UI using n8n workflow automation to connect chatbot requests to Hasura GraphQL API."
     },
