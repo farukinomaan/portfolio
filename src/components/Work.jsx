@@ -29,6 +29,13 @@ const works = [
     tags: ['React', 'TailwindCSS', 'NodeJs', 'JavaScript', 'MongoDB', 'Express'],
     projectLink: 'https://github.com/farukinomaan/Questifybynomaan'
   },
+
+  {
+    imgSrc: '/images/work3.png',
+    title: 'AI Powered ChatBot',
+    tags: ['React', 'JavaScript','TailwindCSS', 'Hasura', 'nhost','n8n','GraphQL API'],
+    projectLink: 'https://github.com/farukinomaan/ChatbotbyNomaan'
+  },
 //   {
 //     imgSrc: '/images/project-3.jpg',
 //     title: 'Recipe app',
