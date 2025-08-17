@@ -11,6 +11,14 @@ import ProjectCard from "./ProjectCard";
 
 
 const works = [
+
+  {
+    imgSrc: '/images/work3.png',
+    title: 'AI Powered ChatBot',
+    tags: ['React', 'JavaScript','TailwindCSS', 'Hasura', 'nhost','n8n','GraphQL API'],
+    projectLink: 'https://github.com/farukinomaan/ChatbotbyNomaan'
+  }, 
+  
   {
     imgSrc: '/images/prj2.png',
     title: 'Hotel Reservation Website with SQL Database integerated',
@@ -30,12 +38,7 @@ const works = [
     projectLink: 'https://github.com/farukinomaan/Questifybynomaan'
   },
 
-  {
-    imgSrc: '/images/work3.png',
-    title: 'AI Powered ChatBot',
-    tags: ['React', 'JavaScript','TailwindCSS', 'Hasura', 'nhost','n8n','GraphQL API'],
-    projectLink: 'https://github.com/farukinomaan/ChatbotbyNomaan'
-  },
+  
 //   {
 //     imgSrc: '/images/project-3.jpg',
 //     title: 'Recipe app',
