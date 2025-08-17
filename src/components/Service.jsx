@@ -37,7 +37,7 @@ const ServicesSection = () => {
     {
       icon: <Brain className="w-8 h-8 text-amber-600" />,
       title: "AI Chatbots",
-      description: " Developed a chatbot frontend in React + TailwindCSS with a clean, responsive UI using n8n workflow automation to connect chatbot requests to Hasura GraphQL API."
+      description: " Develop a chatbot frontend in React + TailwindCSS with a clean, responsive UI using n8n workflow automation to connect chatbot requests to Hasura GraphQL API."
     },
     {
       icon: <Zap className="w-8 h-8 text-amber-600" />,
